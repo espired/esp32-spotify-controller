@@ -17,10 +17,10 @@
 #endif
 
 // Spotify API credentials
-static String spotifyClientId = "2924245bc9054df49d32bf9f24079521";
-static String spotifyClientSecret = "1c65fc2be3484a4ea9209b7fb498597b";
-static String accessToken = "BQDU3_HI25XwIjmEDmthSFueTkXibjeKyuQcg9CE9v6C7HoKcso-7oQxnd_WTAXSLsdwvoo5FsSth95l3hvhxSw_6TKn-qk8zAIUDjcE9YffJASN-Y_03hGxCTzSwCpgEdvlX9ewilKlCkhL-GCydHjGugb5XgTBNGufRuSecahSQQkh4i0cram5uxCX1Co";
-static String refreshToken = "AQDXArrdeyUcTJXApxOATdH8UixiJV38rmW9I6TNH1XAbaN4ZxbbwKwIzmkHQXrzswSVJX2D3RwB4X70V6OGUtz5L5WrPgCGS0e16FSStujYi5_Xve0RicCo8Q84UFLJdUE";
+static String spotifyClientId = "CLIENT_ID";
+static String spotifyClientSecret = "CLIENT_SECRET";
+static String accessToken = "ACCESS_TOKEN";
+static String refreshToken = "REFRESH_TOKEN";
 
 const char *spotifyBaseApiUrl = "https://api.spotify.com/v1";
 
